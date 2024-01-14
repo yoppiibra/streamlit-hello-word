@@ -13,7 +13,7 @@ if selected=='Home':
 
 
 if selected =='Graphs':
-    pass
+    st.header('test header')
 
 if selected =='Project':
     pass
